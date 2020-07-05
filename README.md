@@ -5,9 +5,11 @@
 
 1.請先 CDN jQuery
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
 2.計數器CDN
 
-https://github.com/eeyore1222/counter-jQuery/blob/master/counter.js
+<script src=https://eeyore1222.github.io/counter-jQuery/counter.js></script>
 
 3.參數說明
 ~~~
